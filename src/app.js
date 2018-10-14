@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 /* This sample app creates Todo tasks and provides
    the possibility to perform the basic CRUD operation 
    on Mock todo data. The app started off with a 
@@ -6,6 +7,14 @@
    several logic was implemented to work with any of the saved 
    hard-coded coded data in the Todo component.
 */
+=======
+// This sample app creates Todo tasks and provides
+// the possibility to perform the basic CRUD operation 
+// on Mock todo data. The app started off with a 
+// default todo object saved into the class instance.
+// several logic was implemented to work with any of the saved 
+// hard-coded data in the Todo component.
+>>>>>>> 4ba3b3b6cc69ecec3b2715101cf666078d7f4303
 
 /* creates a boxed component for a Todo app. */
 class Todo{
