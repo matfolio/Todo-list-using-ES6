@@ -4,7 +4,7 @@
 // on Mock todo data. The app started off with a 
 // default todo object saved into the class instance.
 // several logic was implemented to work with any of the saved 
-// hard-coded coded data in the Todo component.
+// hard-coded data in the Todo component.
 
 /* creates a boxed component for a Todo app. */
 class Todo{
